@@ -1,0 +1,10 @@
+Package: s3methodtest
+Title: S3 method test package
+Version: 0.1
+Authors@R: "Winston Chang <winston@stdout.org> [aut, cre]"
+Description: S3 method test package
+Depends:
+    R (>= 3.1.0)
+Imports:
+    dplyr
+License: GPL-2
